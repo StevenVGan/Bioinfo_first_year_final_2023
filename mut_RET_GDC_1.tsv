@@ -1,0 +1,101 @@
+DNA Change	Type	Consequences	# Affected Cases in Cohort	# Affected Cases Across the GDC	Impact	Survival
+chr10:g.43120129C>A	Substitution	Synonymous RET R886=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43114519C>T	Substitution	Missense RET A640V	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.19, PolyPhen: benign - score 0.003	add to survival plot
+chr10:g.43109049A>T	Substitution	Missense RET N361I	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: benign - score 0.209	add to survival plot
+chr10:g.43112915G>A	Substitution	Missense RET D571N	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.998	add to survival plot
+chr10:g.43118391A>G	Substitution	Missense RET E768G	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: possibly_damaging - score 0.637	add to survival plot
+chr10:g.43105176G>C	Substitution	Missense RET E284Q	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.07, PolyPhen: benign - score 0.101	add to survival plot
+chr10:g.43112217T>C	Substitution	Synonymous RET D547=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43102591T>C	Substitution	Missense RET L196S	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.07, PolyPhen: benign - score 0.049	add to survival plot
+chr10:g.43120123G>A	Substitution	Missense RET E884K	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0.02, PolyPhen: probably_damaging - score 0.996	add to survival plot
+chr10:g.43109033C>T	Substitution	Splice Region RET L356=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43105160C>T	Substitution	Synonymous RET T278=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43128225C>G	Substitution	Missense RET L1101V	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated_low_confidence - score 1, PolyPhen: benign - score 0	add to survival plot
+chr10:g.43119556C>T	Substitution	Synonymous RET Y806=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43126649A>G	Substitution	Synonymous RET T1038=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43106398G>T	Substitution	Missense RET R297L	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.66, PolyPhen: benign - score 0.039	add to survival plot
+chr10:g.43111335C>T	Substitution	Synonymous RET I464=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43118420G>A	Substitution	Missense RET V778I	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: benign - score 0.003	add to survival plot
+chr10:g.43111419C>A	Substitution	Synonymous RET T492=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43118465G>A	Substitution	Missense RET A793T	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.999	add to survival plot
+chr10:g.43105076C>A	Substitution	Synonymous RET R250=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43121964T>C	Substitution	Missense RET W917R	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1	add to survival plot
+chr10:g.43119613C>A	Substitution	Synonymous RET G825=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43100719C>T	Substitution	Missense RET R112C	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated_low_confidence - score 0.17, PolyPhen: benign - score 0.014	add to survival plot
+chr10:g.43100495G>T	Substitution	Missense RET W37L	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated_low_confidence - score 0.65, PolyPhen: benign - score 0.007	add to survival plot
+chr10:g.43118410delA	Deletion	Frameshift RET E775Sfs*5	1 / 3,110,0.03%	1 / 14,783	VEP: HIGH	add to survival plot
+chr10:g.43123716delA	Deletion	Frameshift RET N950Tfs*15	1 / 3,110,0.03%	1 / 14,783	VEP: HIGH	add to survival plot
+chr10:g.43111300G>A	Substitution	Missense RET G453R	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.18, PolyPhen: benign - score 0.062	add to survival plot
+chr10:g.43126669A>G	Substitution	Missense RET N1045S	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated_low_confidence - score 0.1, PolyPhen: benign - score 0.026	add to survival plot
+chr10:g.43102346C>A	Substitution	Synonymous RET R114=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43102493G>C	Substitution	Synonymous RET R163=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43109115delGCCCAGGA	Deletion	Frameshift RET P384Gfs*83	1 / 3,110,0.03%	1 / 14,783	VEP: HIGH	add to survival plot
+chr10:g.43100536C>T	Substitution	Synonymous RET L51=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43102649G>T	Substitution	Intron RET	1 / 3,110,0.03%	1 / 14,783	VEP: MODIFIER	add to survival plot
+chr10:g.43118428G>T	Substitution	Missense RET K780N	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0.02, PolyPhen: probably_damaging - score 1	add to survival plot
+chr10:g.43114541C>T	Substitution	Synonymous RET I647=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43102534G>A	Substitution	Missense RET R177Q	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.2, PolyPhen: possibly_damaging - score 0.903	add to survival plot
+chr10:g.43100615G>T	Substitution	Missense RET R77L	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated_low_confidence - score 0.3, PolyPhen: benign - score 0.01	add to survival plot
+chr10:g.43106491C>G	Substitution	Missense RET T328S	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.11, PolyPhen: benign - score 0.08	add to survival plot
+chr10:g.43119674C>A	Substitution	Missense RET L846I	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.19, PolyPhen: probably_damaging - score 0.999	add to survival plot
+chr10:g.43100649C>T	Substitution	Synonymous RET I88=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43113634C>T	Substitution	Missense RET P613L	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0.04, PolyPhen: benign - score 0.015	add to survival plot
+chr10:g.43102557T>A	Substitution	Missense RET F185I	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.33, PolyPhen: benign - score 0.3	add to survival plot
+chr10:g.43116583G>A	Substitution	Splice Acceptor RET X713_splice	1 / 3,110,0.03%	1 / 14,783	VEP: HIGH	add to survival plot
+chr10:g.43114617G>A	Substitution	Missense RET E673K	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.26, PolyPhen: probably_damaging - score 0.958	add to survival plot
+chr10:g.43100557G>A	Substitution	Missense RET D58N	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious_low_confidence - score 0, PolyPhen: probably_damaging - score 0.953	add to survival plot
+chr10:g.43119668C>T	Substitution	Missense RET R844W	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1	add to survival plot
+chr10:g.43116714C>G	Substitution	Missense RET A756G	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.999	add to survival plot
+chr10:g.43104951G>T	Substitution	Splice Acceptor RET X209_splice	1 / 3,110,0.03%	1 / 14,783	VEP: HIGH	add to survival plot
+chr10:g.43109220G>A	Substitution	Missense RET R418Q	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.23, PolyPhen: benign - score 0.047	add to survival plot
+chr10:g.43102579C>T	Substitution	Missense RET P192L	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.06, PolyPhen: probably_damaging - score 0.955	add to survival plot
+chr10:g.43116716G>A	Substitution	Missense RET V757M	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1	add to survival plot
+chr10:g.43111378G>T	Substitution	Missense RET A479S	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.77, PolyPhen: benign - score 0.003	add to survival plot
+chr10:g.43102617A>G	Substitution	Missense RET R205G	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.34, PolyPhen: benign - score 0.001	add to survival plot
+chr10:g.43102344C>A	Substitution	Missense RET R114S	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated_low_confidence - score 0.47, PolyPhen: benign - score 0.001	add to survival plot
+chr10:g.43100620C>T	Substitution	Missense RET R79W	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious_low_confidence - score 0.02, PolyPhen: possibly_damaging - score 0.727	add to survival plot
+chr10:g.43128135G>A	Substitution	Missense RET G1071R	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious_low_confidence - score 0.02, PolyPhen: benign - score 0.1	add to survival plot
+chr10:g.43119640C>T	Substitution	Synonymous RET N834=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43123694G>T	Substitution	Missense RET W942L	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1	add to survival plot
+chr10:g.43122004C>T	Substitution	Missense RET T930M	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.999	add to survival plot
+chr10:g.43111394T>C	Substitution	Missense RET M484T	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.9, PolyPhen: benign - score 0	add to survival plot
+chr10:g.43123774C>T	Substitution	Missense RET R969W	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1	add to survival plot
+chr10:g.43114547G>A	Substitution	Synonymous RET S649=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43106551G>A	Substitution	Missense RET R348Q	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.09, PolyPhen: probably_damaging - score 0.943	add to survival plot
+chr10:g.43121983delT	Deletion	Frameshift RET F924Lfs*22	1 / 3,110,0.03%	1 / 14,783	VEP: HIGH	add to survival plot
+chr10:g.43128132C>T	Substitution	Missense RET P1070S	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious_low_confidence - score 0, PolyPhen: benign - score 0.43	add to survival plot
+chr10:g.43120162C>T	Substitution	Stop Gained RET R897*	1 / 3,110,0.03%	1 / 14,783	VEP: HIGH	add to survival plot
+chr10:g.43121978A>T	Substitution	Missense RET E921D	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: possibly_damaging - score 0.657	add to survival plot
+chr10:g.43112883C>A	Substitution	Missense RET P560H	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.981	add to survival plot
+chr10:g.43116643A>C	Substitution	Missense RET E732D	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.993	add to survival plot
+chr10:g.43114500T>C	Substitution	Missense RET C634R	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.999	add to survival plot
+chr10:g.43109065G>A	Substitution	Synonymous RET E366=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43126671G>A	Substitution	Missense RET A1046T	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated_low_confidence - score 0.13, PolyPhen: benign - score 0.059	add to survival plot
+chr10:g.43109211G>C	Substitution	Missense RET R415T	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.22, PolyPhen: benign - score 0.159	add to survival plot
+chr10:g.43111424G>T	Substitution	Missense RET R494M	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.1, PolyPhen: benign - score 0.005	add to survival plot
+chr10:g.43109197C>T	Substitution	Synonymous RET L410=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43126684G>A	Substitution	Missense RET R1050Q	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious_low_confidence - score 0, PolyPhen: probably_damaging - score 0.997	add to survival plot
+chr10:g.43116664C>A	Substitution	Synonymous RET V739=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43119592G>A	Substitution	Synonymous RET E818=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43114619G>C	Substitution	Missense RET E673D	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.06, PolyPhen: probably_damaging - score 0.942	add to survival plot
+chr10:g.43128236A>T	Substitution	Synonymous RET S1104=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43109123G>A	Substitution	Missense RET A386T	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.32, PolyPhen: benign - score 0	add to survival plot
+chr10:g.43123779G>A	Substitution	Missense RET M970I	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 0.998	add to survival plot
+chr10:g.43109120G>T	Substitution	Stop Gained RET G385*	1 / 3,110,0.03%	1 / 14,783	VEP: HIGH	add to survival plot
+chr10:g.43100662G>A	Substitution	Missense RET G93S	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious_low_confidence - score 0, PolyPhen: probably_damaging - score 1	add to survival plot
+chr10:g.43112898G>T	Substitution	Missense RET C565F	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: possibly_damaging - score 0.87	add to survival plot
+chr10:g.43106468C>T	Substitution	Synonymous RET P320=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43123720C>T	Substitution	Missense RET P951S	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1	add to survival plot
+chr10:g.43106376G>A	Substitution	Missense RET D290N	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.06, PolyPhen: benign - score 0.03	add to survival plot
+chr10:g.43114508G>A	Substitution	Synonymous RET T636=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43120130G>A	Substitution	Missense RET R886Q	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.08, PolyPhen: probably_damaging - score 0.998	add to survival plot
+chr10:g.43128201G>A	Substitution	Missense RET D1093N	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious_low_confidence - score 0.01, PolyPhen: probably_damaging - score 0.997	add to survival plot
+chr10:g.43100524G>A	Substitution	Missense RET G47S	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious_low_confidence - score 0.01, PolyPhen: possibly_damaging - score 0.753	add to survival plot
+chr10:g.43114520C>T	Substitution	Synonymous RET A640=	1 / 3,110,0.03%	1 / 14,783	VEP: LOW	add to survival plot
+chr10:g.43112212G>T	Substitution	Stop Gained RET G546*	1 / 3,110,0.03%	1 / 14,783	VEP: HIGH	add to survival plot
+chr10:g.43128424G>A	Substitution	3 Prime UTR RET	1 / 3,110,0.03%	1 / 14,783	VEP: MODIFIER	add to survival plot
+chr10:g.43116653G>A	Substitution	Missense RET G736R	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0, PolyPhen: probably_damaging - score 1	add to survival plot
+chr10:g.43112107G>A	Substitution	Missense RET E511K	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: tolerated - score 0.36, PolyPhen: benign - score 0.011	add to survival plot
+chr10:g.43120145C>A	Substitution	Stop Gained RET S891*	1 / 3,110,0.03%	1 / 14,783	VEP: HIGH	add to survival plot
+chr10:g.43113586G>T	Substitution	Missense RET G597V	1 / 3,110,0.03%	1 / 14,783	VEP: MODERATE, SIFT: deleterious - score 0.01, PolyPhen: probably_damaging - score 1	add to survival plot
+chr10:g.43102542C>T	Substitution	Stop Gained RET R180*	1 / 3,110,0.03%	1 / 14,783	VEP: HIGH	add to survival plot

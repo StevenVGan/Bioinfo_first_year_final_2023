@@ -1,0 +1,58 @@
+---
+title: "Q10_COVID_variant"
+author: "Diwen (Steven) Gan"
+date: 2023-06-18
+format: html
+toc: true
+---
+
+# Setup library
+
+```{r, message=FALSE}
+library(ggplot2)
+library(dplyr)
+```
+
+
+# Import COVID19-Variant Data
+
+```{r}
+data <- read.csv("covid19_variants.csv")
+```
+
+
+# Process the data
+
+```{r}
+# Convert the date column to Date type
+data$date <- as.Date(data$date)
+
+# Filter out the "Total" variant and select the date range
+data <- data %>%
+  filter(variant_name != "Total") %>%
+  filter(date >= as.Date("2021-01-01") & date <= as.Date("2022-05-31"))
+```
+
+
+# Plot the data
+
+```{r}
+ggplot(data, aes(x = date, y = percentage, color = variant_name)) +
+  geom_line() +
+  scale_x_date(date_breaks = "1 month", date_labels = "%b %Y") +
+  labs(x = "", 
+       y = "Percentage of sequenced specimens", 
+       color = NULL,
+       caption = "Data source: <https://data.chhs.ca.gov/>") +
+  theme_bw() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1)) +
+  ggtitle("COVID19 Variants in California")
+```
+
+
+# Session info
+
+```{r}
+sessionInfo()
+```
+
