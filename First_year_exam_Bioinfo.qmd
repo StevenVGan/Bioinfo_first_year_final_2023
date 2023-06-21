@@ -64,6 +64,8 @@ rm(df1, df2, df3, df4)
 mut_freq_RET <- mut_freq_RET[,-7]
 ```
 
+# Q5
+
 ```{r}
 # install.packages(c("dplyr", "stringr"))
 library(dplyr)
@@ -84,4 +86,33 @@ mut_RET <- mut_freq_RET %>%
   filter(type == "Missense") %>%
   arrange(desc(X..Affected.Cases.in.Cohort))
 ```
+
+# Q7
+
+```{r}
+positions <- gsub("[^0-9]", "", diff)
+
+cat(paste(positions, collapse=","))
+```
+
+```{r}
+pdb_lines <- readLines("./mutant_tumor_alpha_fold/mutant_tumor_7a868_unrelaxed_rank_001_alphafold2_ptm_model_4_seed_000.pdb")
+
+atom_lines <- grep("^ATOM", pdb_lines, value = TRUE)
+
+bfactors <- as.numeric(substr(atom_lines, 61, 66))
+residue_numbers <- as.numeric(substr(atom_lines, 23, 26))
+
+positions_bfactor_gt_70 <- unique(residue_numbers[bfactors > 70])
+
+print(positions_bfactor_gt_70)
+```
+
+```{r}
+surface <- c("740", "741", "746", "748", "751", "752", "753", "754")
+
+intersect(surface, positions_bfactor_gt_70)
+```
+
+
 
