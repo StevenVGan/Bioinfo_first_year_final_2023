@@ -1,8 +1,8 @@
 ---
 title: "Q10_COVID_variant"
 author: "Diwen (Steven) Gan"
-date: 2023-06-18
-format: html
+date: 2023-06-28
+format: pdf
 toc: true
 ---
 
@@ -27,9 +27,10 @@ data <- read.csv("covid19_variants.csv")
 # Convert the date column to Date type
 data$date <- as.Date(data$date)
 
-# Filter out the "Total" variant and select the date range
+# Filter out the "Total" and "Other" variant and select the date range
 data <- data %>%
   filter(variant_name != "Total") %>%
+  filter(variant_name != "Other") %>%
   filter(date >= as.Date("2021-01-01") & date <= as.Date("2022-05-31"))
 ```
 

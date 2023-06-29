@@ -114,5 +114,30 @@ surface <- c("740", "741", "746", "748", "751", "752", "753", "754")
 intersect(surface, positions_bfactor_gt_70)
 ```
 
+# Q8
+
+```{r}
+library(bio3d)
+
+# Read in the PDB files
+pdb1 <- read.pdb("mutant_tumor_alpha_fold/mutant_tumor_7a868_unrelaxed_rank_001_alphafold2_ptm_model_4_seed_000.pdb")
+pdb2 <- read.pdb("mutant_tumor_alpha_fold/5fm2.pdb")
+
+# Select C-alpha atoms
+ca.inds1 <- atom.select(pdb1, "calpha")
+ca.inds2 <- atom.select(pdb2, "calpha")
+
+# Align and calculate RMSD
+aln = fit.xyz(fixed = pdb1$xyz, mobile = pdb2$xyz)
+
+# Extract the aligned coordinates
+aligned_coords2 <- aln$mobile
+
+# Calculate and print RMSD
+rmsd <- rmsd(coords1, aligned_coords2)
+
+print(rmsd)
+```
+
 
 
