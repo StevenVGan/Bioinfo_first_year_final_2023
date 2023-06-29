@@ -1,7 +1,9 @@
 ---
 title: "Q10_COVID_variant"
-author: "Diwen (Steven) Gan"
-date: 2023-06-28
+author: 
+- "Diwen (Steven) Gan"
+- "A59020397"
+date: 2023-06-29
 format: pdf
 toc: true
 ---
